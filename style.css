@@ -1,0 +1,65 @@
+.CV {
+  text-align: center;
+  font-size: 200px;
+  font-weight: 700;
+}
+
+.img {
+  display: block;
+  margin-left: 40%;
+  margin-right: 50%;
+  width: 20%;
+}
+
+.name {
+  text-align: center;
+  font-size: 180px;
+  font-weight: 400;
+}
+
+p {
+  font-size: 80px;
+  margin: 0%;
+}
+
+span {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.big {
+  font-size: 180px;
+  margin-bottom: 90px;
+  margin-top: 90px;
+  display: block;
+}
+
+.red {
+  background-color: rgb(244, 41, 41);
+}
+
+.pirveli {
+  margin-top: 20px;
+}
+
+.href {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+p {
+  margin-top: 14px;
+}
+
+.lorem {
+  background-color: pink;
+}
+
+a {
+  font-size: 100px;
+}
+
+.yvit {
+  background-color: YELLOW;
+}
